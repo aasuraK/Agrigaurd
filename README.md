@@ -62,7 +62,6 @@ agriguard_streamlit/
 ## ⚙️ Installation
 
 ### 1. Clone the repo
-```bash
 git clone <your-repo-url>
 cd agriguard_streamlit
 
