@@ -1,0 +1,111 @@
+Crop,Disease,Symptoms,Treatment,Organic_Control,Risk_Level
+Rice,Brown Spot Variant 1,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 1,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 1,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 1,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 1,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 1,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 1,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 1,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 1,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 1,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 2,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 2,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 2,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 2,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 2,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 2,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 2,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 2,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 2,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 2,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 3,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 3,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 3,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 3,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 3,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 3,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 3,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 3,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 3,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 3,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 4,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 4,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 4,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 4,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 4,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 4,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 4,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 4,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 4,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 4,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 5,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 5,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 5,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 5,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 5,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 5,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 5,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 5,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 5,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 5,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 6,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 6,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 6,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 6,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 6,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 6,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 6,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 6,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 6,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 6,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 7,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 7,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 7,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 7,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 7,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 7,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 7,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 7,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 7,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 7,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 8,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 8,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 8,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 8,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 8,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 8,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 8,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 8,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 8,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 8,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 9,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 9,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 9,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 9,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 9,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 9,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 9,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 9,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 9,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 9,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 10,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 10,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 10,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 10,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 10,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 10,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 10,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 10,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 10,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 10,Gray-green lesions,Zineb,Crop rotation,Medium
+Rice,Brown Spot Variant 11,"Circular brown lesions on leaves, yellow halo",Mancozeb spray,Neem oil (3%),Medium
+Rice,Blast Variant 11,"Spindle-shaped spots, grey center",Tricyclazole,Pseudomonas fluorescens,High
+Rice,Bacterial Blight Variant 11,"Yellowish stripes, wilting",Copper Hydroxide,Cow dung extract spray,High
+Wheat,Stem Rust Variant 11,Reddish-brown pustules,Propiconazole,Resistant varieties,High
+Wheat,Loose Smut Variant 11,Black powder instead of grains,Carboxin,Hot water seed treatment,Medium
+Cotton,Verticillium Wilt Variant 11,"Yellowing, vein discoloration",Soil solarization,Trichoderma,High
+Cotton,Boll Rot Variant 11,Rotting lint,Copper Oxychloride,Remove debris,Medium
+Tomato,Early Blight Variant 11,Target spots,Chlorothalonil,Compost tea,Medium
+Tomato,Late Blight Variant 11,Water-soaked patches,Metalaxyl,Copper sprays,Critical
+Maize,Turcicum Blight Variant 11,Gray-green lesions,Zineb,Crop rotation,Medium
